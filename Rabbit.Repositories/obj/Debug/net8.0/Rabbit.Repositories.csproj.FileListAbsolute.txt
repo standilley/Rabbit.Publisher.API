@@ -1,0 +1,15 @@
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\bin\Debug\net8.0\Rabbit.Repositories.deps.json
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\bin\Debug\net8.0\Rabbit.Repositories.dll
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\bin\Debug\net8.0\Rabbit.Repositories.pdb
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\bin\Debug\net8.0\Rabbit.Models.dll
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\bin\Debug\net8.0\Rabbit.Models.pdb
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\obj\Debug\net8.0\Rabbit.Repositories.csproj.AssemblyReference.cache
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\obj\Debug\net8.0\Rabbit.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\obj\Debug\net8.0\Rabbit.Repositories.AssemblyInfoInputs.cache
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\obj\Debug\net8.0\Rabbit.Repositories.AssemblyInfo.cs
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\obj\Debug\net8.0\Rabbit.Repositories.csproj.CoreCompileInputs.cache
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\obj\Debug\net8.0\Rabbit.R.4632CD8D.Up2Date
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\obj\Debug\net8.0\Rabbit.Repositories.dll
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\obj\Debug\net8.0\refint\Rabbit.Repositories.dll
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\obj\Debug\net8.0\Rabbit.Repositories.pdb
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Repositories\obj\Debug\net8.0\ref\Rabbit.Repositories.dll

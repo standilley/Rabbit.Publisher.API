@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rabbit.Publisher.API.props" />
+</Project>

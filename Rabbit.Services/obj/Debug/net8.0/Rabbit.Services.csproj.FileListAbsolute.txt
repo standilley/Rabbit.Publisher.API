@@ -1,0 +1,17 @@
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\bin\Debug\net8.0\Rabbit.Services.deps.json
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\bin\Debug\net8.0\Rabbit.Services.dll
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\bin\Debug\net8.0\Rabbit.Services.pdb
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\bin\Debug\net8.0\Rabbit.Models.dll
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\bin\Debug\net8.0\Rabbit.Repositories.dll
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\bin\Debug\net8.0\Rabbit.Models.pdb
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\bin\Debug\net8.0\Rabbit.Repositories.pdb
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\obj\Debug\net8.0\Rabbit.Services.csproj.AssemblyReference.cache
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\obj\Debug\net8.0\Rabbit.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\obj\Debug\net8.0\Rabbit.Services.AssemblyInfoInputs.cache
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\obj\Debug\net8.0\Rabbit.Services.AssemblyInfo.cs
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\obj\Debug\net8.0\Rabbit.Services.csproj.CoreCompileInputs.cache
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\obj\Debug\net8.0\Rabbit.S.6DFFD6BA.Up2Date
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\obj\Debug\net8.0\Rabbit.Services.dll
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\obj\Debug\net8.0\refint\Rabbit.Services.dll
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\obj\Debug\net8.0\Rabbit.Services.pdb
+C:\Projects\rabbitMq\Rabbit.Publisher.API\Rabbit.Services\obj\Debug\net8.0\ref\Rabbit.Services.dll
